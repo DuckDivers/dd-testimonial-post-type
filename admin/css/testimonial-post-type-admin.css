@@ -1,0 +1,8 @@
+/** Testimonials Custom Post Type CSS */
+#testimonial-meta input {
+    width: 600px;
+    max-width: 100%;
+}
+input#dd_testi_date {
+    width: auto;
+}
